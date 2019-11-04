@@ -46,9 +46,7 @@ void loop()
   digitalWrite(1, LOW);
   delay(500);
 }
-//Name - Aman Kumar
-//UID - 19BCS3520
-```
+
 
 ## Result:
 Blinking of LED was verified after uploading the program.
